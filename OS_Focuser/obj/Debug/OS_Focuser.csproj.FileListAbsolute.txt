@@ -1,0 +1,10 @@
+C:\Users\dsi\source\repos\OS_Focuser\OS_Focuser\bin\Debug\ASCOM.OS_Focuser.Focuser.dll.config
+C:\Users\dsi\source\repos\OS_Focuser\OS_Focuser\bin\Debug\ASCOM.OS_Focuser.Focuser.dll
+C:\Users\dsi\source\repos\OS_Focuser\OS_Focuser\bin\Debug\ASCOM.OS_Focuser.Focuser.pdb
+C:\Users\dsi\source\repos\OS_Focuser\OS_Focuser\bin\Debug\ASCOM.OS_Focuser.Focuser.tlb
+C:\Users\dsi\source\repos\OS_Focuser\OS_Focuser\obj\Debug\ASCOM.OS_Focuser.Properties.Resources.resources
+C:\Users\dsi\source\repos\OS_Focuser\OS_Focuser\obj\Debug\ASCOM.OS_Focuser.SetupDialogForm.resources
+C:\Users\dsi\source\repos\OS_Focuser\OS_Focuser\obj\Debug\OS_Focuser.csproj.GenerateResource.cache
+C:\Users\dsi\source\repos\OS_Focuser\OS_Focuser\obj\Debug\OS_Focuser.csproj.CoreCompileInputs.cache
+C:\Users\dsi\source\repos\OS_Focuser\OS_Focuser\obj\Debug\ASCOM.OS_Focuser.Focuser.dll
+C:\Users\dsi\source\repos\OS_Focuser\OS_Focuser\obj\Debug\ASCOM.OS_Focuser.Focuser.pdb

@@ -1,0 +1,1 @@
+This is an ASCOM driver for the Officina Stellare Focuser ATC02.

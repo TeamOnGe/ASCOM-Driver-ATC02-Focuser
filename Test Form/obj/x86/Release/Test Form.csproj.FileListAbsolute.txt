@@ -1,0 +1,19 @@
+C:\Users\dsi\source\repos\OS_Focuser\Test Form\bin\Release\ASCOM.OS_Focuser.Test.exe.config
+C:\Users\dsi\source\repos\OS_Focuser\Test Form\bin\Release\ASCOM.OS_Focuser.Test.exe
+C:\Users\dsi\source\repos\OS_Focuser\Test Form\bin\Release\ASCOM.OS_Focuser.Test.pdb
+C:\Users\dsi\source\repos\OS_Focuser\Test Form\bin\Release\ASCOM.DeviceInterfaces.dll
+C:\Users\dsi\source\repos\OS_Focuser\Test Form\bin\Release\ASCOM.DriverAccess.dll
+C:\Users\dsi\source\repos\OS_Focuser\Test Form\bin\Release\ASCOM.Utilities.dll
+C:\Users\dsi\source\repos\OS_Focuser\Test Form\bin\Release\ASCOM.Exceptions.dll
+C:\Users\dsi\source\repos\OS_Focuser\Test Form\bin\Release\ASCOM.DeviceInterfaces.xml
+C:\Users\dsi\source\repos\OS_Focuser\Test Form\bin\Release\ASCOM.DriverAccess.xml
+C:\Users\dsi\source\repos\OS_Focuser\Test Form\bin\Release\ASCOM.Utilities.xml
+C:\Users\dsi\source\repos\OS_Focuser\Test Form\bin\Release\ASCOM.Exceptions.xml
+C:\Users\dsi\source\repos\OS_Focuser\Test Form\obj\x86\Release\Test Form.csprojResolveAssemblyReference.cache
+C:\Users\dsi\source\repos\OS_Focuser\Test Form\obj\x86\Release\ASCOM.OS_Focuser.Form1.resources
+C:\Users\dsi\source\repos\OS_Focuser\Test Form\obj\x86\Release\ASCOM.OS_Focuser.Properties.Resources.resources
+C:\Users\dsi\source\repos\OS_Focuser\Test Form\obj\x86\Release\Test Form.csproj.GenerateResource.cache
+C:\Users\dsi\source\repos\OS_Focuser\Test Form\obj\x86\Release\Test Form.csproj.CoreCompileInputs.cache
+C:\Users\dsi\source\repos\OS_Focuser\Test Form\obj\x86\Release\Test Form.csproj.CopyComplete
+C:\Users\dsi\source\repos\OS_Focuser\Test Form\obj\x86\Release\ASCOM.OS_Focuser.Test.exe
+C:\Users\dsi\source\repos\OS_Focuser\Test Form\obj\x86\Release\ASCOM.OS_Focuser.Test.pdb
